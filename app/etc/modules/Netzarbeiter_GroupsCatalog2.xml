@@ -33,6 +33,7 @@
 				<Mage_CatalogSearch/>
 				<Mage_Wishlist/>
 				<Mage_Customer/>
+				<MrWonderful_Sitemap />
 			</depends>
 		</Netzarbeiter_GroupsCatalog2>
 	</modules>

@@ -101,6 +101,7 @@
         <netzarbeiter_groupscatalog2>
             <disabled_on_routes>
                 <api/>
+                <ceca/>
                 <paypal/>
                 <paypaluk/>
                 <authorizenet/>

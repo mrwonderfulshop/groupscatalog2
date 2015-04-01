@@ -2,7 +2,7 @@
 
 
 class Netzarbeiter_GroupsCatalog2_Model_Sitemap_Resource_Catalog_Category
-    extends Mage_Sitemap_Model_Resource_Catalog_Category
+    extends MrWonderful_Sitemap_Model_Resource_Catalog_Category
 {
     /**
      * @var Netzarbeiter_GroupsCatalog2_Model_Sitemap_Resource_Catalog_Behavior_FilterSitemapAbstract
